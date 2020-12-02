@@ -1,1 +1,4 @@
 # hostedWebsite
+---
+layout: default
+---
